@@ -1,3 +1,30 @@
 {
-	
+	"Monday" : {
+		"Miles" : 1,
+		"Time" : "9 minutes 32 seconds"
+	},
+	"Tuesday" : {
+		"Miles" : 2.2,
+		"Time" : "17 minutes 12 seconds"
+	},
+	"Wednesday" : {
+		"Miles" : 1.5,
+		"Time" : "12 minutes 42 seconds"
+	},
+	"Thursday" : {
+		"Miles" : 3.2,
+		"Time" : "26 minutes 2 seconds"
+	},
+	"Friday" : {
+		"Miles" : 1,
+		"Time" : "10 minutes 21 seconds"
+	},
+	"Saturday" : {
+		"Miles" : 4.2,
+		"Time" : "42 minutes 52 seconds"
+	},
+	"Sunday" : {
+		"Miles" : 1.2,
+		"Time" : "9 minutes 42 seconds"
+	}
 }
